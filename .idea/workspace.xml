@@ -4,70 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b916ec2-aafe-4e2d-841d-34cf9f2ff913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/OrangeHRMHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/OrangeHRMLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/TariffHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/guru99Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/guru99OrderSuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/guru99Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/stepsDefinitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/stepsDefinitions/OrangeHRMSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/stepsDefinitions/TariffSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/utils/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/utils/ConfigurationsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/utils/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/01_Tutorial.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/02_Inrtro_Cucumber.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Apache_POI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Background_Parameters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Cucumber_IntelliJ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Data_Tables.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/HTML_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/LOG4J_framerwork.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/List.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Maps.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Maven.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Page_Object_Model.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Parameters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Regression_Testing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Scenario_Outline.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Screenshot_Embedding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Smoke_Testing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/hooks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab03.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab04.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab05.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab06.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Tariff.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/OrangeHRMHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/OrangeHRMLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/TariffHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/guru99Home.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/guru99OrderSuccess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/guru99Payment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/runner/TestRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/stepsDefinitions/Hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/stepsDefinitions/OrangeHRMSteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/stepsDefinitions/TariffSteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/utils/BrowserUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/utils/ConfigurationsReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/code/utils/Driver.class" afterDir="false" />
-    </list>
+    <list default="true" id="2b916ec2-aafe-4e2d-841d-34cf9f2ff913" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
