@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b916ec2-aafe-4e2d-841d-34cf9f2ff913" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/OrangeHRMHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/OrangeHRMLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/TariffHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/guru99Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/guru99OrderSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/pages/guru99Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/stepsDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/stepsDefinitions/OrangeHRMSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/stepsDefinitions/TariffSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/utils/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/utils/ConfigurationsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/utils/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/01_Tutorial.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/02_Inrtro_Cucumber.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Apache_POI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Background_Parameters.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Cucumber_IntelliJ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Data_Tables.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/HTML_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/LOG4J_framerwork.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/List.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Maps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Maven.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Page_Object_Model.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Parameters.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Regression_Testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Scenario_Outline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Screenshot_Embedding.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/Smoke_Testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/docs/hooks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labs/lab06.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Tariff.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/OrangeHRMHome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/OrangeHRMLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/TariffHome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/guru99Home.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/guru99OrderSuccess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/pages/guru99Payment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/runner/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/stepsDefinitions/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/stepsDefinitions/OrangeHRMSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/stepsDefinitions/TariffSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/utils/BrowserUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/utils/ConfigurationsReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/code/utils/Driver.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KNj7mm33wSo6L2hdXUeKpesJKS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/maria/IdeaProjects/CucumberBDDC7final/src/test/java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\IdeaProjects\CucumberBDDC7final\src\test\java" />
+      <recent name="C:\Users\maria\IdeaProjects\CucumberBDDC7final" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="code.pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Verify Add Tariff Plan website &quot;http://demo.guru99.com/telecom/index.html&quot;">
+    <configuration name="Feature: Tariff" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/Tariff.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDC7final" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Tariff" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login to OrangeHRM with Parameterized message" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/OrangeHRM.feature" />
+      <option name="GLUE" value="code.stepsDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDC7final" />
+      <option name="NAME_FILTER" value="^Login to OrangeHRM with Parameterized message$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login to OrangeHRM with Parameterized message$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login to OrangeHRM with Parameterized message" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify Add Tariff Plan website &quot;http://demo.guru99.com/telecom/index.html&quot;" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/Tariff.feature" />
+      <option name="GLUE" value="code.stepsDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDC7final" />
+      <option name="NAME_FILTER" value="^Verify Add Tariff Plan website \&quot;http\:\/\/demo\.guru99\.com\/telecom\/index\.html\&quot;$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Add Tariff Plan website \&quot;http\:\/\/demo\.guru99\.com\/telecom\/index\.html\&quot;$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify Add Tariff Plan website &quot;http://demo.guru99.com/telecom/index.html&quot;" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify Add Tariff Plan website http://demo.guru99.com/telecom/index.html" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/Tariff.feature" />
+      <option name="GLUE" value="code.stepsDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDC7final" />
+      <option name="NAME_FILTER" value="^Verify Add Tariff Plan website http\:\/\/demo\.guru99\.com\/telecom\/index\.html$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Add Tariff Plan website http\:\/\/demo\.guru99\.com\/telecom\/index\.html$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify Add Tariff Plan website http://demo.guru99.com/telecom/index.html" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBDDC7final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code.runner" />
+      <option name="MAIN_CLASS_NAME" value="code.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Verify Add Tariff Plan website &quot;http://demo.guru99.com/telecom/index.html&quot;" />
+      <item itemvalue="Cucumber Java.Feature: Tariff" />
+      <item itemvalue="Cucumber Java.Scenario: Login to OrangeHRM with Parameterized message" />
+      <item itemvalue="Cucumber Java.Scenario: Verify Add Tariff Plan website http://demo.guru99.com/telecom/index.html" />
+      <item itemvalue="JUnit.TestRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Verify Add Tariff Plan website &quot;http://demo.guru99.com/telecom/index.html&quot;" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Verify Add Tariff Plan website http://demo.guru99.com/telecom/index.html" />
+        <item itemvalue="Cucumber Java.Feature: Tariff" />
+        <item itemvalue="Cucumber Java.Scenario: Login to OrangeHRM with Parameterized message" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b916ec2-aafe-4e2d-841d-34cf9f2ff913" name="Changes" comment="" />
+      <created>1673821772329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673821772329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
